@@ -43,7 +43,7 @@ $("document").ready(function(){
               break;
               case "Default": {
                 $("html").css("background-color", "grey");
-                $("#wear").attr("src", "images/hanger.jpg");
+                $("#wear").attr("src", "images/four-seasons.gif");
                 $("#logo").attr("src", "images/four-seasons.gif");
                 $("header h3").html("Check out our seasonal clothing!");
           }
